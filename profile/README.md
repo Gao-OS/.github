@@ -14,7 +14,7 @@ This is a list of our public repositories:
 | [grub2-themes](https://github.com/Gao-OS/grub2-themes) | Modern Design theme for Grub2 | Shell | 0 | 0 |
 | [installer](https://github.com/Gao-OS/installer) | No description provided. |  | 0 | 0 |
 | [mobile-BEAM](https://github.com/Gao-OS/mobile-BEAM) | Erlang / Elixir runtimes for Android and iOS | C | 0 | 1 |
-| [mobile-nixos](https://github.com/Gao-OS/mobile-nixos) | 📱fork and patch the mobile nixos |  | 0 | 0 |
+| [mobile-nixos](https://github.com/Gao-OS/mobile-nixos) | 📱fork and patch the mobile nixos | C | 0 | 0 |
 | [nerves-env](https://github.com/Gao-OS/nerves-env) | Build envirionment for nerves system | Nix | 0 | 0 |
 | [nerves_system_zero_2](https://github.com/Gao-OS/nerves_system_zero_2) | Nerves system for the Raspberry Pi Zero 2 gadget mode | Elixir | 0 | 0 |
 | [otp-release](https://github.com/Gao-OS/otp-release) | Supplies prebuilt erlang otp release |  | 0 | 0 |
